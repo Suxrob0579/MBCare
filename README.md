@@ -13,5 +13,7 @@ Ilovaning asosiy maqsadi — onalar va farzandlar uchun sog‘lom va ongli parva
 !!!Important!!!
 
 "design" papkasida ilovaning prototip ko'rinishi uchun tayyorlangan rasmlar mavjud.
-"m_b_care" ZIP file ilovaning source code
+
+"m_b_care" ZIP file ilovaning source code hisoblanadi.
+
 "Ona va bola uchun shaxsiy salomatlik yordamchisini yaratish bo'yicha so'rovnoma.csv" onalar va otalar o'rtasida o'tkazilgan so'rovnoma natijalari
