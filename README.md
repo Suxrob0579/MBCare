@@ -1,19 +1,19 @@
-Ushbu mobil ilova — O‘zbekistondagi yangi tug‘ilgan chaqaloqlar va ularning onalari uchun mo‘ljallangan sog‘liqni saqlash va parvarish bo‘yicha ko‘makchi platformadir. Ilova orqali foydalanuvchilar:
+This mobile application is a healthcare and care support platform for newborns and their mothers in Uzbekistan. Through the application, users can:
 
-Chaqaloqning o‘sishi va rivojlanishini kuzatishi
+Track their baby's growth and development
 
-Emizish, ovqatlantirish va uyqu tartibi bo‘yicha tavsiyalar olishi
+Receive recommendations on breastfeeding, feeding and sleep patterns
 
-Zaruriy dori-darmon va emlash eslatmalarini olish
+Receive essential medication and vaccination reminders
 
-Video darslar, maqolalar, ruhiy sog‘lomlik va o‘yinlar bo‘yicha kontentlardan foydalanishi mumkin
+Access video lessons, articles, mental health and game content
 
-Ilovaning asosiy maqsadi — onalar va farzandlar uchun sog‘lom va ongli parvarish muhitini yaratish, ishonchli, mahalliylashtirilgan va interaktiv yechim orqali.
+The main goal of the application is to create a healthy and conscious care environment for mothers and children, through a reliable, localized and interactive solution.
 
 !!!Important!!!
 
-"design" papkasida ilovaning prototip ko'rinishi uchun tayyorlangan rasmlar mavjud.
+"design" The folder contains images prepared for the prototype look of the application.
 
-"m_b_care" ZIP file ilovaning source code hisoblanadi.
+The application prototype was created on a no-code basis.
 
-"Ona va bola uchun shaxsiy salomatlik yordamchisini yaratish bo'yicha so'rovnoma.csv" onalar va otalar o'rtasida o'tkazilgan so'rovnoma natijalari
+"Ona va bola uchun shaxsiy salomatlik yordamchisini yaratish bo'yicha so'rovnoma.csv" Results of a survey conducted among mothers and fathers
